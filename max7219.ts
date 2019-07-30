@@ -1,13 +1,4 @@
-enum rotation_direction {
-    //% block="none"
-    none = 0,
-    //% block="clockwise"
-    clockwise = 1,
-    //% block="counter-clockwise"
-    counterclockwise = 2,
-    //% block="180-degree"
-    one_eighty_degree = 3,
-}
+
 
 //% weight=100 color=#006d19 icon="\uf00a" block="MAX7219 8x8"
 namespace max7219_matrix {
@@ -944,3 +935,13 @@ namespace max7219_matrix {
 
 
 
+enum rotation_direction {
+    //% block="none"
+    none = 0,
+    //% block="clockwise"
+    clockwise = 1,
+    //% block="counter-clockwise"
+    counterclockwise = 2,
+    //% block="180-degree"
+    one_eighty_degree = 3,
+}
