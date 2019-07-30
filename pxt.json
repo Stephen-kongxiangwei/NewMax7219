@@ -6,8 +6,8 @@
     "core":"*"
   },
   "files":{
-  "README".md,
-  "newmax7219.ts"
+  "README.md",
+  "max7219.ts"
   },
   "public":true
 
