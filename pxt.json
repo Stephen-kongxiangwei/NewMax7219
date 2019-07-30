@@ -1,0 +1,14 @@
+{
+"name":"NewMax7219",
+"version":"1.0",
+"description":"MakeCode  editor extension for single or multiple MAX7219 4x1 matrix LED modules",
+"dependencies":{
+    "core":"*"
+  },
+  "files":{
+  "README".md,
+  "newmax7219.ts"
+  },
+  "public":true
+
+}
